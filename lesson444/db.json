@@ -1,0 +1,74 @@
+[
+  {
+    "image": "./imgs/nin.png",
+    "title": "NINTENDO",
+    "price": "34 552",
+    "old": "47 990",
+    "desribtion": "/ Игровая приставка Nintendo Switch красная/синяя (Japan)"
+  },
+  {
+    "image": "./imgs/pristavka.png",
+    "title": "NINTENDO",
+    "price": "30 143",
+    "old": "44 990      ",
+    "desribtion": "/ Nintendo Switch OLED 64 Gb Neon"
+  },
+  {
+    "image": "./imgs/pristavka2.png",
+    "title": "NINTENDO",
+    "price": "31 000",
+    "old": "30 143",
+    "desribtion": "/Nintendo Switch OLED 64 Gb"
+  },
+  {
+    "image": "./imgs/mario.jpg",
+    "title": "NINTENDO",
+    "old": "39 990",
+    "price": "29 992",
+    "desribtion": "/ Игровая консоль Nintendo Switch синий/неоновый красный"
+  },
+
+  {
+    "image": "./imgs/switch.png",
+    "title": "NINTENDO",
+    "old": "299",
+    "price": "104",
+    "desribtion": "/Игровая приставка Nintendo Switch красная/синяя (Japan)"
+  },
+  {
+    "image": "./imgs/follow.png",
+    "title": "NINTENDO",
+    "old": "30 143",
+    "price": "2 190",
+    "desribtion": "/Подписка для Nintendo Switch 12 месяцев"
+  },
+  {
+    "image": "./imgs/forGame.png",
+    "title": "NINTENDO",
+    "old": "3 899",
+    "price": "1 091",
+    "desribtion": "/напальчники для игр, nintendo"
+  },
+  {
+    "image": "./imgs/game.png",
+    "title": "NINTENDO",
+    "old": "41 999",
+    "price": "32 759",
+    "desribtion": "/Игра Nintendo Switch Big Brain Academy: Brain vs.Brain карт."
+  },
+
+  {
+    "image": "./imgs/white.png",
+    "title": "NINTENDO",
+    "old": "30 143",
+    "price": "31 000",
+    "desribtion": "/Nintendo Switch OLED 64 Gb White ВЕРСИЯ ДЛЯ КИТАЯ"
+  },
+  {
+    "image": "./imgs/3d.png",
+    "title": "NINTENDO",
+    "old": "1 158",
+    "price": "1 783",
+    "desribtion": "/Игра 3DS на картридже Pilot WingsResort(русская версия)"
+  }
+]
